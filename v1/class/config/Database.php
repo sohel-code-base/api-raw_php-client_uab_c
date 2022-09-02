@@ -3,9 +3,9 @@ class Database{
   
     // specify your own database credentials
     private $host = "localhost";
-    private $db_name = "";
+    private $db_name = "c1pocketdatabase";
     private $username = "root";
-    private $password = "";
+    private $password = "Glueck7!Jachai";
     public $conn;
 
     // get the database connection
